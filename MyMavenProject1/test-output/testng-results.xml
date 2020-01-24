@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36472" started-at="2020-01-10T11:04:32Z" finished-at="2020-01-10T11:05:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36472" started-at="2020-01-10T11:04:32Z" finished-at="2020-01-10T11:05:08Z">
+      <class name="GoogleTest.VerifyGooglePageTest">
+        <test-method status="PASS" signature="startApp()[pri:0, instance:GoogleTest.VerifyGooglePageTest@59fa1d9b]" name="startApp" is-config="true" duration-ms="12860" started-at="2020-01-10T11:04:32Z" finished-at="2020-01-10T11:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="checktitle()[pri:0, instance:GoogleTest.VerifyGooglePageTest@59fa1d9b]" name="checktitle" duration-ms="18" started-at="2020-01-10T11:04:45Z" finished-at="2020-01-10T11:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktitle -->
+        <test-method status="PASS" signature="close()[pri:0, instance:GoogleTest.VerifyGooglePageTest@59fa1d9b]" name="close" is-config="true" duration-ms="4172" started-at="2020-01-10T11:04:45Z" finished-at="2020-01-10T11:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="startApp()[pri:0, instance:GoogleTest.VerifyGooglePageTest@59fa1d9b]" name="startApp" is-config="true" duration-ms="14904" started-at="2020-01-10T11:04:49Z" finished-at="2020-01-10T11:05:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="checklogo()[pri:1, instance:GoogleTest.VerifyGooglePageTest@59fa1d9b]" name="checklogo" duration-ms="77" started-at="2020-01-10T11:05:04Z" finished-at="2020-01-10T11:05:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklogo -->
+        <test-method status="PASS" signature="close()[pri:0, instance:GoogleTest.VerifyGooglePageTest@59fa1d9b]" name="close" is-config="true" duration-ms="4405" started-at="2020-01-10T11:05:04Z" finished-at="2020-01-10T11:05:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- GoogleTest.VerifyGooglePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
